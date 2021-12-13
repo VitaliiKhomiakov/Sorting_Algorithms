@@ -1,4 +1,4 @@
-# Sorting Algorithms
+# Sorting Algorithms (PHP)
 
 - [Bubble sort](https://github.com/VitaliiKhomiakov/Sorting_Algorithms/blob/main/bubble_sort.php)
 - [Counting Sort](https://github.com/VitaliiKhomiakov/Sorting_Algorithms/blob/main/counting_sort.php)
